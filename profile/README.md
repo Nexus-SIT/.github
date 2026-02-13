@@ -17,7 +17,7 @@
 
 ## ⚡ About Nexus
 
-Nexus is the core technical club under the **SSOSC** ecosystem at Srinivas Institute of Technology, Mangalore. We are not just a club; we are a community of builders, shippers, and open-source enthusiasts.
+Nexus is the core technical club at Srinivas Institute of Technology, Mangalore. We are not just a club; we are a community of builders, shippers, and open-source enthusiasts.
 
 We exist to bridge the gap between academic theory and industry-grade engineering. If you are here to build, break things, and fix them faster, you are in the right place.
 
@@ -36,8 +36,7 @@ We don't do "seminars." We do **shipping**.
 
 The heartbeat of Nexus is the **Daily Tech Jam**.
 - **When:** Every evening (Check Discord for timings).
-- **Where:** [Location/Discord Link]
-- **Agenda:** No lectures. Bring your bugs, bring your projects, and let's solve them together.
+- **Where:** Nexus Lab, 3rd Floor, Main Block, SIT, Mangalore- **Agenda:** No lectures. Bring your bugs, bring your projects, and let's solve them together.
 
 ## 🏗 Tech Stack
 
@@ -68,8 +67,7 @@ Read our `CONTRIBUTING.md` before pushing code. We maintain a high standard of c
 ---
 
 <div align="center">
-  
-  **Part of the SSOSC / Hawkeye Ecosystem**
+
   
   Built with ☕ and code in Mangalore.
   
